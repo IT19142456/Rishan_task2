@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403949739809",
+    "project_id": "madhackapp",
+    "storage_bucket": "madhackapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403949739809:android:b00c4d15d9c5b60ba26860",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403949739809-poqsp7nljk8f8vjr1msjm453eesvunnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_hSVyScAs6O5dSAfi-DlsBedQJXuwG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403949739809-poqsp7nljk8f8vjr1msjm453eesvunnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
